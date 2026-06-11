@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /play-rabona/
+Disallow: /ar/play-rabona/
+
+Sitemap: https://rabona-kuwait.com/sitemap.xml
