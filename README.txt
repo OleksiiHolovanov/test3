@@ -174,3 +174,5 @@ html element. No CSS modifications were made for AR.
 
 
 Content update 2026-06-11: global rewrite completed, informational blocks reordered, FAQ/checklist blocks added, metadata updated for Rabona Kuwait branded queries.
+
+Update rabona-7: added a bonus row with three editable promotion cards on EN/AR bonus pages and expanded content on About, Bonuses, Login and Mobile App pages. Service pages and home pages were not expanded.
